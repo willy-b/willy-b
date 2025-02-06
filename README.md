@@ -1,4 +1,4 @@
-### UC San Diego (12 graduate courses)
+### UC San Diego (12 graduate courses in Computer Science)
 - UC San Diego Algorithms and Data Structures MicroMasters (8 courses)
 
   https://records.edx.org/shared/e2454b861942468f94e0673945f49fbf
