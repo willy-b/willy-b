@@ -43,6 +43,10 @@
 - Stanford XCS330 Deep Multi-task Meta Learning
 
   https://digitalcredential.stanford.edu/check/490478B1080F1CC6391ED0CA93701EB765EB01616086849B9BDF5562CB065DBBbjZCSmdGZEZLUWJRRjExc2lFQ2RYc2ZKQlBPSzRJaXhmNHFZY2JHZWZWMkU4c0Rh
+  
+### Google Scholar Profile
+
+https://scholar.google.com/citations?hl=en&user=FAM_-1QAAAAJ
 
 ### International Association of Privacy Professionals (IAPP.org)
 
