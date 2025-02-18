@@ -43,6 +43,10 @@
 - Stanford XCS330 Deep Multi-task Meta Learning
 
   https://digitalcredential.stanford.edu/check/490478B1080F1CC6391ED0CA93701EB765EB01616086849B9BDF5562CB065DBBbjZCSmdGZEZLUWJRRjExc2lFQ2RYc2ZKQlBPSzRJaXhmNHFZY2JHZWZWMkU4c0Rh
+
+- Stanford XCS234 Reinforcement Learning
+
+  https://digitalcredential.stanford.edu/check/B7CAC9AE4ED3A58BC42F06D263C73392FACACAF26EED0A69B12267BF00CDE456cUVHYm5ncU1HVzliSVRNRjhzbWZUc0xKTi92dmNKSmgwRjVlbEZ0c1dnclRtMXlh
   
 ### Google Scholar Profile
 
