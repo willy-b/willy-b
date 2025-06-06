@@ -65,7 +65,7 @@ https://scholar.google.com/citations?hl=en&user=FAM_-1QAAAAJ
 
   https://web.archive.org/web/20240822032633/https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv
 
-https://github.com/willy-b/tiny-GIN-for-ogbg-molhiv/blob/main/tiny_gin_for_ogbg-molhiv_status_update_presentation_slides.pdf
+https://raw.githubusercontent.com/willy-b/tiny-GIN-for-ogbg-molhiv/main/tiny_gin_for_ogbg-molhiv_status_update_presentation_slides.pdf
 
 ![ogbg-molhiv-leaderboard-snapshot](https://github.com/user-attachments/assets/10fd91d6-ca4a-4304-9c96-7c574f0cbd04)
 
