@@ -86,3 +86,6 @@ https://www.credly.com/badges/c6860a2c-0dcb-4cf7-963d-23a3775b986d
 My LinkedIn is at www.linkedin.com/in/william-bruns-5887b6132 .
 
 My life partner's page is at https://github.com/i-am-ying-li .
+
+Personal update:
+Thankful to have been able to donate >$30,000 to the US Public Debt in 2024, added pledge to donate at least $13K/year to National Science Foundation (NSF) going forward - https://www.facebook.com/willy.bruns/posts/pfbid02L15oFAxd5bZLbonNsAVAqzFMiynTW5qFZHAw2t5qCMn77zkb2XBtAZ1vebkqXEUEl (note my overall Facebook profile which has public content is typically shadowbanned to public by FB, unclear why but started in mid-2025, but direct links typically work ).
