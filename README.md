@@ -89,3 +89,5 @@ My life partner's page is at https://github.com/i-am-ying-li .
 
 Personal update:
 Thankful to have been able to donate >$30,000 to the US Public Debt in 2024, added pledge to donate at least $13K/year to National Science Foundation (NSF) going forward - https://www.facebook.com/willy.bruns/posts/pfbid02L15oFAxd5bZLbonNsAVAqzFMiynTW5qFZHAw2t5qCMn77zkb2XBtAZ1vebkqXEUEl (note my overall Facebook profile which has public content is typically shadowbanned to public by FB, unclear why but started in mid-2025, but direct links typically work ).
+
+Note: I often use the ET or UTC timezones in my commits but I am in the Pacific timezone. This is because my computer resets to an operating system base image every session and the operating system has a default timezone (Fedora 40 to 42 upgrade changed from ET to UTC), and I don't usually adjust it.
