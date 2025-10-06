@@ -81,6 +81,11 @@ LFD480 Programming in Rust
 
 https://www.credly.com/badges/c6860a2c-0dcb-4cf7-963d-23a3775b986d
 
+### de Bruijn Genome Assembler "from scratch" (just Java APIs, no bioinformatics libraries)
+
+[A de Bruijn Graph based Genome Assembler](https://github.com/willy-b/DeBruijnGenomeAssembler) intended to support assembling error-prone unpaired short reads (~100bp) into genomes up to E. Coli size on relatively cheap laptops.
+Over 95% unit test line coverage with gradle CI automation.
+
 ## Hi there 👋
 
 My LinkedIn is at www.linkedin.com/in/william-bruns-5887b6132 .
