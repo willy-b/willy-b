@@ -56,7 +56,9 @@ https://scholar.google.com/citations?hl=en&user=FAM_-1QAAAAJ
 
 - Certified Information Privacy Technologist (CIPT)
 
-  https://www.credential.net/a6321fdc-6571-4346-b6db-a82a4b56628e
+  https://www.credential.net/a6321fdc-6571-4346-b6db-a82a4b56628e (2023-2025)
+  
+  https://www.credential.net/c3eb1d06-c3a8-4017-a2bc-effd6b330c05#acc.6GKr9CyO (2025-2026)
 
 
 ### Some Competitions and Challenges
