@@ -7,6 +7,10 @@
 
   https://credentials.edx.org/records/programs/shared/9206ef608b504151966e004b38174669
 
+### Oracle Certified Professional: Java SE 21 Developer
+
+https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E3F6CD22925E86958C3EDDAB4D5D16F5B2FC0A929DA9C7FFB1
+
 ### Stanford AI Professional Program
 
 - Stanford AI Professional Program overall certificate
@@ -73,7 +77,7 @@ https://raw.githubusercontent.com/willy-b/tiny-GIN-for-ogbg-molhiv/main/tiny_gin
 
 - CodeSignal Company challenges and weekly competition (2021, before ChatGPT came out)
 
-Wiseline, Jet, Verkada, Thumbtack, Uber, Instacart, Dropbox, Freedom Financial Network, MachineZone, TwoSigma, and many others I did not get screenshots of ...
+Wizeline, Jet, Verkada, Thumbtack, Uber, Instacart, Dropbox, Freedom Financial Network, MachineZone, TwoSigma, and many others I did not get screenshots of ...
 
 ![codesignal_company_challenges_and_general_competition](https://github.com/user-attachments/assets/fd517aaa-ac97-4708-a880-5347dac7a04c)
 
