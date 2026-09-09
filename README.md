@@ -104,3 +104,5 @@ Thankful to have been able to donate >$30,000 to the US Public Debt in 2024, add
 Note: I often use the ET or UTC timezones in my commits but I am in the Pacific timezone. This is because my computer resets to an operating system base image every session and the operating system has a default timezone (Fedora 40 to 42 upgrade changed from ET to UTC), and I don't usually adjust it.
 
 NONE of the software repositories on my GitHub were developed using any sort of AI code assistance (NO copilot for example) or review. My life partner Ying Li was also NOT involved in these projects.
+
+To allay concerns on conflicts of interest: I have NEVER taken donations from anyone, earning only income from official employers. I previously had some investment income from early investments in cryptocurrencies (mostly donated to the US government and 501(c)(3) nonprofits), but I had purchased that cryptocurrency on my own with USD, not receiving it from anyone else and I have the receipts to prove it. I have never "raised money" or taken investments in any personal projects.
