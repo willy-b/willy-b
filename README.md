@@ -11,7 +11,7 @@
 
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E3F6CD22925E86958C3EDDAB4D5D16F5B2FC0A929DA9C7FFB1
 
-### Stanford AI Professional Program
+### Stanford AI Professional Program (no AI assisted coding was involved)
 
 - Stanford AI Professional Program overall certificate
 
@@ -23,6 +23,7 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E
 
 [pacman-competition.webm](https://github.com/user-attachments/assets/ec820d5a-2d13-4c17-ab75-841b017094c1)
 
+(PacMan entry was using a classic expectimax approach, not a neural network.)
 
 - Stanford XCS224N Natural Language Processing with Deep Learning
 
