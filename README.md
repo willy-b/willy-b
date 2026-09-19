@@ -1,4 +1,5 @@
-### UC San Diego (12 graduate courses in Computer Science) (no AI assistance, proctored tests with video)
+### UC San Diego (12 graduate courses in Computer Science) 
+(no AI assistance, proctored tests with video)
 - UC San Diego Algorithms and Data Structures MicroMasters (8 courses)
 
   https://records.edx.org/shared/e2454b861942468f94e0673945f49fbf
@@ -7,11 +8,13 @@
 
   https://credentials.edx.org/records/programs/shared/9206ef608b504151966e004b38174669
 
-### Oracle Certified Professional: Java SE 21 Developer (no AI assistance, timed, proctored)
+### Oracle Certified Professional: Java SE 21 Developer
+(no AI assistance, timed, proctored)
 
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E3F6CD22925E86958C3EDDAB4D5D16F5B2FC0A929DA9C7FFB1
 
-### Stanford AI Professional Program (no AI assisted coding was involved)
+### Stanford AI Professional Program 
+(no AI assisted coding was involved)
 
 - Stanford AI Professional Program overall certificate
 
