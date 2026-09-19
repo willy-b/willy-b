@@ -7,7 +7,7 @@
 
   https://credentials.edx.org/records/programs/shared/9206ef608b504151966e004b38174669
 
-### Oracle Certified Professional: Java SE 21 Developer
+### Oracle Certified Professional: Java SE 21 Developer (no AI assistance, timed, proctored)
 
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E3F6CD22925E86958C3EDDAB4D5D16F5B2FC0A929DA9C7FFB1
 
