@@ -13,6 +13,63 @@
 
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E3F6CD22925E86958C3EDDAB4D5D16F5B2FC0A929DA9C7FFB1
 
+### de Bruijn Genome Assembler "from scratch" (just Java APIs, no bioinformatics libraries)
+
+[A de Bruijn Graph based Genome Assembler](https://github.com/willy-b/DeBruijnGenomeAssembler) intended to support assembling error-prone unpaired short reads (~100bp) into genomes up to E. Coli size on relatively cheap laptops.
+Over 95% unit test line coverage with gradle CI automation.
+
+### International Association of Privacy Professionals (IAPP.org)
+
+- Certified Information Privacy Technologist (CIPT)
+
+  https://www.credential.net/a6321fdc-6571-4346-b6db-a82a4b56628e (2023-2025)
+  
+  https://www.credential.net/c3eb1d06-c3a8-4017-a2bc-effd6b330c05#acc.6GKr9CyO (2025-2026)
+
+
+### Some Competitions and Challenges
+  
+- HackerRank (2026), as "adde_animulis" at 6th place for Java practice among those identifying as current-or-former Google-affiliated (no AI assist)
+  
+  https://www.hackerrank.com/leaderboard?filter=Google&filter_on=company&page=1&track=java&type=practice
+  <img width="1823" height="998" alt="Screenshot_20261001_203529" src="https://github.com/user-attachments/assets/6f9a9851-722e-4ff4-aadf-eb37c2b70d96" />
+
+- HackerRank (2026), as "adde_animulis" at 22nd place for Data Structures practice among those identifying as current-or-former Google-affiliated (no AI assist)
+  
+  https://www.hackerrank.com/leaderboard?filter=Google&filter_on=company&page=2&track=data-structures&type=practice
+  <img width="1823" height="779" alt="Screenshot_20261001_203610" src="https://github.com/user-attachments/assets/1df80e5e-96e1-430b-a1c8-9ad4aa56d381" />
+
+
+- HackerRank (2026), as "adde_animulis" tied for 1st on overall SQL practice leaderboard (no AI assist)
+
+  (they do have relatively few SQL problems so many are tied for first here)
+  https://www.hackerrank.com/leaderboard?filter=adde_animulis&filter_on=hacker&page=1&track=sql&type=practice
+  <img width="1823" height="636" alt="Screenshot_20261001_203317" src="https://github.com/user-attachments/assets/18395a81-78af-4287-abcd-fa3480fbc924" />
+
+- Stanford Open Graph Benchmark - molhiv
+
+  https://web.archive.org/web/20240822032633/https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv
+
+https://raw.githubusercontent.com/willy-b/tiny-GIN-for-ogbg-molhiv/main/tiny_gin_for_ogbg-molhiv_status_update_presentation_slides.pdf
+
+![ogbg-molhiv-leaderboard-snapshot](https://github.com/user-attachments/assets/10fd91d6-ca4a-4304-9c96-7c574f0cbd04)
+
+- CodeSignal Company challenges and weekly competition (2021, before ChatGPT came out; these challenges have been discontinued last I checked in 2026)
+
+Wizeline, Jet, Verkada, Thumbtack, Uber, Instacart, Dropbox, Freedom Financial Network, MachineZone, TwoSigma, and many others I did not get screenshots of ...
+
+![codesignal_company_challenges_and_general_competition](https://github.com/user-attachments/assets/fd517aaa-ac97-4708-a880-5347dac7a04c)
+
+### Linux Foundation Training
+
+LFD480 Programming in Rust
+
+https://www.credly.com/badges/c6860a2c-0dcb-4cf7-963d-23a3775b986d
+
+### Google Scholar Profile
+
+https://scholar.google.com/citations?hl=en&user=FAM_-1QAAAAJ
+
 ### Stanford AI Professional Program 
 (no AI assisted coding was involved)
 
@@ -55,46 +112,6 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E
 - Stanford XCS234 Reinforcement Learning
 
   https://digitalcredential.stanford.edu/check/B7CAC9AE4ED3A58BC42F06D263C73392FACACAF26EED0A69B12267BF00CDE456cUVHYm5ncU1HVzliSVRNRjhzbWZUc0xKTi92dmNKSmgwRjVlbEZ0c1dnclRtMXlh
-  
-### Google Scholar Profile
-
-https://scholar.google.com/citations?hl=en&user=FAM_-1QAAAAJ
-
-### International Association of Privacy Professionals (IAPP.org)
-
-- Certified Information Privacy Technologist (CIPT)
-
-  https://www.credential.net/a6321fdc-6571-4346-b6db-a82a4b56628e (2023-2025)
-  
-  https://www.credential.net/c3eb1d06-c3a8-4017-a2bc-effd6b330c05#acc.6GKr9CyO (2025-2026)
-
-
-### Some Competitions and Challenges
-
-- Stanford Open Graph Benchmark - molhiv
-
-  https://web.archive.org/web/20240822032633/https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv
-
-https://raw.githubusercontent.com/willy-b/tiny-GIN-for-ogbg-molhiv/main/tiny_gin_for_ogbg-molhiv_status_update_presentation_slides.pdf
-
-![ogbg-molhiv-leaderboard-snapshot](https://github.com/user-attachments/assets/10fd91d6-ca4a-4304-9c96-7c574f0cbd04)
-
-- CodeSignal Company challenges and weekly competition (2021, before ChatGPT came out)
-
-Wizeline, Jet, Verkada, Thumbtack, Uber, Instacart, Dropbox, Freedom Financial Network, MachineZone, TwoSigma, and many others I did not get screenshots of ...
-
-![codesignal_company_challenges_and_general_competition](https://github.com/user-attachments/assets/fd517aaa-ac97-4708-a880-5347dac7a04c)
-
-### Linux Foundation Training
-
-LFD480 Programming in Rust
-
-https://www.credly.com/badges/c6860a2c-0dcb-4cf7-963d-23a3775b986d
-
-### de Bruijn Genome Assembler "from scratch" (just Java APIs, no bioinformatics libraries)
-
-[A de Bruijn Graph based Genome Assembler](https://github.com/willy-b/DeBruijnGenomeAssembler) intended to support assembling error-prone unpaired short reads (~100bp) into genomes up to E. Coli size on relatively cheap laptops.
-Over 95% unit test line coverage with gradle CI automation.
 
 ## Hi there 👋
 
