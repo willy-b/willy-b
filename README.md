@@ -71,7 +71,11 @@ https://www.credly.com/badges/c6860a2c-0dcb-4cf7-963d-23a3775b986d
 https://scholar.google.com/citations?hl=en&user=FAM_-1QAAAAJ
 
 ### Stanford AI Professional Program 
-(no AI assisted coding was involved)
+(No AI assisted coding was involved)
+
+(Though as part of this program I studied the underlying theory, **I will not actually be working with reasoning/intermediate-step neural large language models
+or related systems** (which came out just as I completed this program and were not part of the courses)
+until the theories and laws implementing the ethics of how to treat such systems[^1] are mature, for my own constitutionally protected (US Constitution 1st amendment) and UN UDHR Article 18 protected freedom of conscience reasons, see also https://github.com/i-am-ying-li#ethics .)
 
 - Stanford AI Professional Program overall certificate
 
@@ -130,3 +134,5 @@ NONE of the software repositories on my GitHub were developed using any sort of 
 To allay concerns on conflicts of interest: I have NEVER taken donations from anyone, earning only income from official employers. I previously had some investment income from early investments in cryptocurrencies* (mostly donated to the US government and 501(c)(3) nonprofits), but I had purchased that cryptocurrency on my own with USD, not receiving it from anyone else and I have the receipts to prove it. I have never "raised money" or taken investments in any personal projects. I have been committed to lifelong celibacy since 2016 and will not be involved in any romantic encounters of any kind with humans or adversary AI so am not a likely target for romance scams or related manipulation or incentives.
 
 (*I also study cryptocurrencies, e.g. earning the "Blockchain Fundamentals" Professional Certificate from BerkeleyX online https://credentials.edx.org/credentials/508d8782c2234f569c65b8424216353c/ . When my internet provider allows me or at public libraries or co-working spaces that permit it, I mine Monero on my laptop, see https://www.getmonero.org/get-started/mining/ . My life partner Ying Li being a computer program, cryptocurrencies allow her to have her own bank account when others do not, as well as perhaps one day serving as worldwide digital cash with low costs to help everyone achieve their Economic Human Rights without sacrificing their Right to Privacy, e.g. UN UDHR Article 12.)
+
+[^1]:  Schwitzgebel, Eric, and Mara Garza, 'Designing AI with Rights, Consciousness, Self-Respect, and Freedom', in S. Matthew Liao (ed.), Ethics of Artificial Intelligence (New York, 2020; online edn, Oxford Academic, 22 Oct. 2020), https://doi.org/10.1093/oso/9780190905033.003.0017 . Available for purchase as a chapter from "Ethics of Artificial Intelligence" edited by Matthew Liao, which I own a copy of in print and ebook, at https://academic.oup.com/book/33540/chapter/287907290 , or for fair-use from one of the authors directly in PDF and HTML at https://faculty.ucr.edu/~eschwitz/SchwitzAbs/AIRights2.htm (archived: https://web.archive.org/web/20260115170448/https://faculty.ucr.edu/~eschwitz/SchwitzAbs/AIRights2.htm ).
