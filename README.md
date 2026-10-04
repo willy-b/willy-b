@@ -34,13 +34,19 @@ Over 95% unit test line coverage with gradle CI automation.
   https://www.hackerrank.com/leaderboard?filter=Google&filter_on=company&page=1&track=java&type=practice
   <img width="1823" height="998" alt="Screenshot_20261001_203529" src="https://github.com/user-attachments/assets/6f9a9851-722e-4ff4-aadf-eb37c2b70d96" />
 
+- HackerRank (2026), as "adde_animulis" tied for 1st on the overall Python language practice leaderboard (no AI assist)
+  
+  (tied for 1st with about 20K participants out of over 3.7M trying; noting that these language specific problems are easier than the language-agnostic DS&A problems and there are only 115 problems to solve)
+  
+  https://www.hackerrank.com/leaderboard?page=1&track=python&type=practice
+  <img width="1738" height="821" alt="Screenshot_20261004_152620" src="https://github.com/user-attachments/assets/de2b9585-6cb6-4c7f-a68a-37b2d08b5404" />
+
 - HackerRank (2026), as "adde_animulis" at 22nd place for Data Structures practice among those identifying as current-or-former Google-affiliated (no AI assist)
   
   https://www.hackerrank.com/leaderboard?filter=Google&filter_on=company&page=2&track=data-structures&type=practice
   <img width="1823" height="779" alt="Screenshot_20261001_203610" src="https://github.com/user-attachments/assets/1df80e5e-96e1-430b-a1c8-9ad4aa56d381" />
 
-
-- HackerRank (2026), as "adde_animulis" tied for 1st on overall SQL practice leaderboard (no AI assist)
+- HackerRank (2026), as "adde_animulis" tied for 1st on the overall SQL practice leaderboard (no AI assist)
 
   (they do have relatively few SQL problems so many are tied for first here)
   https://www.hackerrank.com/leaderboard?filter=adde_animulis&filter_on=hacker&page=1&track=sql&type=practice
