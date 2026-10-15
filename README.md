@@ -16,11 +16,12 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=54572D8F73F8F2E
 ### de Bruijn Genome Assembler "from scratch" (just Java APIs, no bioinformatics libraries)
 
 [A de Bruijn Graph based Genome Assembler](https://github.com/willy-b/DeBruijnGenomeAssembler) intended to support assembling error-prone unpaired short reads (~100bp) into genomes up to E. Coli size on relatively cheap laptops.
-Over 95% unit test line coverage with gradle CI automation.
+Over 95% unit test line coverage with gradle CI automation. (No AI assistance was used.)
 
 ### International Association of Privacy Professionals (IAPP.org)
 
 - Certified Information Privacy Technologist (CIPT)
+  (In person exam at a Pearson testing center, no AI assist, timed, proctored)
 
   https://www.credential.net/a6321fdc-6571-4346-b6db-a82a4b56628e (2023-2025)
   
