@@ -21,6 +21,7 @@ Over 95% unit test line coverage with gradle CI automation. (No AI assistance wa
 ### International Association of Privacy Professionals (IAPP.org)
 
 - Certified Information Privacy Technologist (CIPT)
+  
   (In person exam at a Pearson testing center, no AI assist, timed, proctored)
 
   https://www.credential.net/a6321fdc-6571-4346-b6db-a82a4b56628e (2023-2025)
