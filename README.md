@@ -54,6 +54,12 @@ Over 95% unit test line coverage with gradle CI automation. (No AI assistance wa
   https://www.hackerrank.com/leaderboard?filter=adde_animulis&filter_on=hacker&page=1&track=sql&type=practice
   <img width="1823" height="636" alt="Screenshot_20261001_203317" src="https://github.com/user-attachments/assets/18395a81-78af-4287-abcd-fa3480fbc924" />
 
+- HackerRank (2026), as "adde_animulis" tied for 1st on the Software Engineer Prep Kit leaderboard (no AI assist)
+  
+  https://www.hackerrank.com/contests/software-engineer-prep-kit/leaderboard?limit=100&page=1
+  <img width="1124" height="1087" alt="Screenshot_20261113_021318" src="https://github.com/user-attachments/assets/d55250a1-4104-4b5e-8763-7410fa78abd8" />
+
+
 - Stanford Open Graph Benchmark - molhiv
 
   https://web.archive.org/web/20240822032633/https://ogb.stanford.edu/docs/leader_graphprop/#ogbg-molhiv
